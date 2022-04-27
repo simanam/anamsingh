@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anamsingh/static/css/main.adfd5098.css",
-    "main.js": "/anamsingh/static/js/main.84642278.js",
+    "main.js": "/anamsingh/static/js/main.34ff5d7e.js",
     "static/media/matavidhiyasewafoundation.png": "/anamsingh/static/media/matavidhiyasewafoundation.a48e705338a94d9b36db.png",
     "static/media/uokcase.png": "/anamsingh/static/media/uokcase.42d51b985bd59d98272d.png",
     "static/media/myphoto.png": "/anamsingh/static/media/myphoto.e9a94afbc7b611bd6295.png",
@@ -13,10 +13,10 @@
     "static/media/background.svg": "/anamsingh/static/media/background.acc8503465f87aa0e10a67c2f6e6e957.svg",
     "index.html": "/anamsingh/index.html",
     "main.adfd5098.css.map": "/anamsingh/static/css/main.adfd5098.css.map",
-    "main.84642278.js.map": "/anamsingh/static/js/main.84642278.js.map"
+    "main.34ff5d7e.js.map": "/anamsingh/static/js/main.34ff5d7e.js.map"
   },
   "entrypoints": [
     "static/css/main.adfd5098.css",
-    "static/js/main.84642278.js"
+    "static/js/main.34ff5d7e.js"
   ]
 }
