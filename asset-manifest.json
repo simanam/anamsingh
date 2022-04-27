@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/frontend_react/static/css/main.adfd5098.css",
-    "main.js": "/frontend_react/static/js/main.32a11cbd.js",
-    "static/media/matavidhiyasewafoundation.png": "/frontend_react/static/media/matavidhiyasewafoundation.a48e705338a94d9b36db.png",
-    "static/media/uokcase.png": "/frontend_react/static/media/uokcase.42d51b985bd59d98272d.png",
-    "static/media/myphoto.png": "/frontend_react/static/media/myphoto.e9a94afbc7b611bd6295.png",
-    "static/media/travelhelp.png": "/frontend_react/static/media/travelhelp.2009b40f007f7759d875.png",
-    "static/media/resume.pdf": "/frontend_react/static/media/resume.874300bd2e9430f489e8.pdf",
-    "static/media/covidDash.png": "/frontend_react/static/media/covidDash.56568899c3c78cd11476.png",
-    "static/media/AmanSvg.svg": "/frontend_react/static/media/AmanSvg.86712275cf7e8f24048159d523f8d0b1.svg",
-    "static/media/LogoA2.png": "/frontend_react/static/media/LogoA2.cf9b7137911d1078bb6e.png",
-    "static/media/background.svg": "/frontend_react/static/media/background.acc8503465f87aa0e10a67c2f6e6e957.svg",
-    "index.html": "/frontend_react/index.html",
-    "main.adfd5098.css.map": "/frontend_react/static/css/main.adfd5098.css.map",
-    "main.32a11cbd.js.map": "/frontend_react/static/js/main.32a11cbd.js.map"
+    "main.css": "/anamsingh/static/css/main.adfd5098.css",
+    "main.js": "/anamsingh/static/js/main.e97d8509.js",
+    "static/media/matavidhiyasewafoundation.png": "/anamsingh/static/media/matavidhiyasewafoundation.a48e705338a94d9b36db.png",
+    "static/media/uokcase.png": "/anamsingh/static/media/uokcase.42d51b985bd59d98272d.png",
+    "static/media/myphoto.png": "/anamsingh/static/media/myphoto.e9a94afbc7b611bd6295.png",
+    "static/media/travelhelp.png": "/anamsingh/static/media/travelhelp.2009b40f007f7759d875.png",
+    "static/media/resume.pdf": "/anamsingh/static/media/resume.874300bd2e9430f489e8.pdf",
+    "static/media/covidDash.png": "/anamsingh/static/media/covidDash.56568899c3c78cd11476.png",
+    "static/media/AmanSvg.svg": "/anamsingh/static/media/AmanSvg.86712275cf7e8f24048159d523f8d0b1.svg",
+    "static/media/LogoA2.png": "/anamsingh/static/media/LogoA2.cf9b7137911d1078bb6e.png",
+    "static/media/background.svg": "/anamsingh/static/media/background.acc8503465f87aa0e10a67c2f6e6e957.svg",
+    "index.html": "/anamsingh/index.html",
+    "main.adfd5098.css.map": "/anamsingh/static/css/main.adfd5098.css.map",
+    "main.e97d8509.js.map": "/anamsingh/static/js/main.e97d8509.js.map"
   },
   "entrypoints": [
     "static/css/main.adfd5098.css",
-    "static/js/main.32a11cbd.js"
+    "static/js/main.e97d8509.js"
   ]
 }
