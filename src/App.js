@@ -11,8 +11,8 @@ const App = () => {
       <Navbar />
 
       <Routes basename="/">
-        <Route path="/frontend_react" element={<Homepage />} />
-        <Route path="/frontend_react/uokCaseStudy" element={<CaseStudy />} />
+        <Route path="/anamsingh" element={<Homepage />} />
+        <Route path="/anamsingh/uokCaseStudy" element={<CaseStudy />} />
       </Routes>
     </div>
   );
