@@ -5,7 +5,6 @@ import { ReactComponent as AmanSvg } from "../../assests/AmanSvg.svg";
 import { ReactComponent as BackgroundSvg } from "../../assests/background.svg";
 // import { Appwrap } from "../../wrapper";
 
-import { SocialMedia } from "../../components";
 import "./Header.scss";
 
 const Header = () => {

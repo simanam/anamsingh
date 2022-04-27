@@ -4,14 +4,12 @@ import "./Works.scss";
 import { data } from "./data";
 import { FiGithub, FiFigma } from "react-icons/fi";
 import { BiLinkExternal } from "react-icons/bi";
-import { Link, useNavigate } from "react-router-dom";
 
 const Work = () => {
   const [activeFilter, setActiveFilter] = useState("UI/UX");
   const [animateCard, setAnimateCard] = useState({ x: 0, opacity: 1 });
   const [animateCard2, setAnimateCard2] = useState({ x: 0, opacity: 1 });
   const [filterWork, setFilterWork] = useState(data);
-  const navigate = useNavigate();
 
   useEffect(() => {
     setFilterWork(data.filter((work) => work.tag.includes("UI/UX")));

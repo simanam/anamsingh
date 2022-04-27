@@ -1,7 +1,6 @@
 import React from "react";
 
 import { Timelines } from "../../components";
-import { Appwrap } from "../../wrapper";
 
 import "./About.scss";
 
