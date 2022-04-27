@@ -67,7 +67,7 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <Link to="/">
+        <Link to="/frontend_react">
           <img src={images.logo} alt="logo" />
         </Link>
       </div>
