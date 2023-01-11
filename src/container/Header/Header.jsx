@@ -44,8 +44,7 @@ const Header = () => {
         <div className="tagcmp app__flex">
           <div className="second-text" style={{ marginLeft: 20 }}>
             <p>
-              I'm a <b>front-end developer</b> and <b>ux/ui designer</b> from
-              California
+              I'm a <b>ux/ui engineer</b> from California
             </p>
           </div>
           <span className="page-header__scroll" aria-hidden="true">
